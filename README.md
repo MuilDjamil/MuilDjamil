@@ -1,11 +1,10 @@
+
 <h1 align="center">Hi 👋, I'm Muil Djamil</h1>
 <h3 align="center">A passionate Web Developer from Indonesia</h3>
 
-<img align="right" alt="img" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
+<img align="right" alt="img" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muildjamil&label=Profile%20views&color=0e75b6&style=flat" alt="muildjamil" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muildjamil" alt="muildjamil" /></a> </p>
 
 - 🔭 I’m currently working on [Movies Project](https://github.com/MuilDjamil/movies-project)
 
