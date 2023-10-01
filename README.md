@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Muil Djamil</h1>
 <h3 align="center">A passionate Web Developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muildjamil&label=Profile%20views&color=0e75b6&style=flat" alt="muildjamil" /> </p>
-
 - 🔭 I’m currently working on [Movies Project](https://github.com/MuilDjamil/movies-project)
 
 - 🌱 I’m currently learning **Vue.js**
