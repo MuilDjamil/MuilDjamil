@@ -9,7 +9,7 @@ A full stack web developer with 2 year of experience. Familiar with web developm
 *   🌍  I'm based in Indonesia
 *   🖥️  See my portfolio at [https://muil-profile.vercel.app/](http://muil-profile.vercel.app/)
 *   ✉️  You can contact me at [muil.extends.djamil@gmail.com](mailto:muil.extends.djamil@gmail.com)
-*   🧠  I'm planning to learn Laravel
+*   🧠  Currently learning Laravel
 *   ⚡  Coffe increase my productivity
 
 ### Skills
